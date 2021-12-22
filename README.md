@@ -1,4 +1,4 @@
-<img src="https://previews.123rf.com/images/hanohiki/hanohiki1702/hanohiki170200042/72392820-binary-code-background-digital-ones-and-zeros.jpg"/>
+<img src="https://previews.123rf.com/images/hanohiki/hanohiki1702/hanohiki170200042/72392820-binary-code-background-digital-ones-and-zeros.jpg" width="100" height="100"/>
 
 ## Hola, Bienvenido a mi Perfil de Github.
 
