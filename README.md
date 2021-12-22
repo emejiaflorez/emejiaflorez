@@ -6,4 +6,11 @@ Soy Enrique Mejia Florez, especialista en la construcción y actualizacion de pl
 
 Puedes contactarme : +57 321 815 8216 | emejiaflorez@gmail.com | https://www.linkedin.com/in/enrique-mejia-fullstackdeveloper 
 
-## Hola, Bienvenido a mi Perfil
+## Otras Skills
+
+* Leng. de Programación: TypeScript, Visual Basic 6.0, C++, Turbo Pascal, Cobol y Fortran
+* Tecnologia Web : HTML5, CSS3, Bootstrap
+* Bases de Datos : DB2, Oracle, Postgres Sql y SqlLite 
+* Programa de Diseño de Base de Datos Relacional : DB Designer
+* Programa de Generación de Informes : SAP Crystal Reports
+m
