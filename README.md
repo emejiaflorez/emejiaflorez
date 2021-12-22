@@ -1,4 +1,4 @@
-<img src="https://previews.123rf.com/images/hanohiki/hanohiki1702/hanohiki170200042/72392820-binary-code-background-digital-ones-and-zeros.jpg" width="1000" height="200"/>
+<mi ambientte son los ceros y unos img src="https://previews.123rf.com/images/hanohiki/hanohiki1702/hanohiki170200042/72392820-binary-code-background-digital-ones-and-zeros.jpg" width="1000" height="200"/>
 
 ## Hola, Bienvenido a mi Perfil
 
@@ -13,4 +13,4 @@ Puedes contactarme : +57 321 815 8216 | emejiaflorez@gmail.com | https://www.lin
 * Bases de Datos : DB2, Oracle, Postgres Sql y SqlLite 
 * Programa de Diseño de Base de Datos Relacional : DB Designer
 * Programa de Generación de Informes : SAP Crystal Reports
-m
+
