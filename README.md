@@ -1,6 +1,6 @@
 
 
-![nodelogo](./img/logo.png)
+![nodelogo]()
 
 ## Hola, Bienvenido a mi Perfil de Github.
 
