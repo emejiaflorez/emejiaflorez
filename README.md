@@ -1,4 +1,4 @@
-<src="https://previews.123rf.com/images/hanohiki/hanohiki1702/hanohiki170200042/72392820-binary-code-background-digital-ones-and-zeros.jpg" width="1000" height="200"/>
+<img src="https://previews.123rf.com/images/hanohiki/hanohiki1702/hanohiki170200042/72392820-binary-code-background-digital-ones-and-zeros.jpg" width="1000" height="200"/>
 
 ## Hola, Bienvenido a mi Perfil
 
