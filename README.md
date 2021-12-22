@@ -1,4 +1,4 @@
-<img src="https://us.123rf.com/450wm/hanohiki/hanohiki1702/hanohiki170200054/72391302-fondo-del-c%C3%B3digo-binario-unos-y-ceros-digitales.jpg?ver=6/>
+<img src="https://us.123rf.com/450wm/hanohiki/hanohiki1702/hanohiki170200054/72391302-fondo-del-c%C3%B3digo-binario-unos-y-ceros-digitales.jpg/>
 
 ## Hola, Bienvenido a mi Perfil de Github.
 
